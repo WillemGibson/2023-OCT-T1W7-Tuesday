@@ -1,0 +1,1 @@
+# Python Challenges from Week 7 Tuesday Live class
